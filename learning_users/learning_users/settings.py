@@ -35,7 +35,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
-CSRF_TRUSTED_ORIGINS = ['https://*.heroku.com', 'https://www.*.heroku.com']
+CSRF_TRUSTED_ORIGINS = ['https://*.herokuapp.com', 'https://www.*.herokuapp.com']
 
 # Application definition
 
